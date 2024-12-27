@@ -7,26 +7,26 @@ A dedicated **Full-Stack Developer** with 4+ years of experience in **HTML, CSS,
 
 ## 💼 Professional Achievements and Projects
 
-### [Stripe and PayPal-Based Manual and Bulk Invoice System](https://github.com/MuhammadHassandeveloper/stripe-invoice-system)
+### Stripe and PayPal-Based Manual and Bulk Invoice System
 - Developed a comprehensive invoicing system with support for **Stripe** and **PayPal** payments.  
 - Enabled both manual and bulk invoice generation, ensuring seamless and efficient billing processes.  
 - Added features for sharing payment links, invoice tracking, and cancellation before payment.
 
-### [Job Management System with Weekly Reports and Graphs](https://github.com/MuhammadHassandeveloper/job-management-system)
+### Job Management System with Weekly Reports and Graphs
 - Designed and implemented a **Job Management System** with advanced task tracking and reporting features.  
 - Integrated **dynamic charts and graphs** to represent weekly progress and performance metrics.  
 - Ensured user-friendly interfaces for managing tasks, tracking deadlines, and generating reports.
 
-### [Custom Web Development Projects](https://github.com/MuhammadHassandeveloper/web-development-projects)
+### Custom Web Development Projects
 - Designed and developed responsive, high-performing websites using modern technologies like Laravel, React, and Tailwind CSS.
 
-### [E-Commerce Platforms](https://github.com/MuhammadHassandeveloper/e-commerce-platform)
+### E-Commerce Platforms
 - Built secure and scalable online stores with advanced features like payment gateway integration and real-time inventory management.
 
-### [Business Solutions SaaS](https://github.com/MuhammadHassandeveloper/saas-business-solutions)
+### Business Solutions SaaS
 - Streamlined operations for businesses by developing custom SaaS platforms and management systems with multi-tenant architectures.
 
-### [RESTful APIs and Microservices](https://github.com/MuhammadHassandeveloper/restful-apis)
+### RESTful APIs and Microservices
 - Developed RESTful APIs and microservices-based architectures to enhance modularity and scalability.
 
 ---
