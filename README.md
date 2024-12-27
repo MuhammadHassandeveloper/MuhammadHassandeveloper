@@ -1,6 +1,3 @@
-Sure! Here is your GitHub profile description formatted in the same style, using your GitHub ID **MuhammadHassandeveloper**:
-
----
 
 # Hello! I'm Muhammad Hassan
 
@@ -80,6 +77,15 @@ Thank you for visiting my GitHub profile! I'm excited to collaborate on innovati
 ![PayPal](https://img.shields.io/badge/PayPal-%230073CF.svg?style=flat-square&logo=PayPal&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)  
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MuhammadHassandeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadHassandeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadHassandeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
