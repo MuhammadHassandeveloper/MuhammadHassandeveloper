@@ -41,4 +41,24 @@ A professional **Full-Stack Developer** with 4+ years of experience in **HTML, C
 - **Email**: [hassan.codeflex@gmail.com](mailto:hassan.codeflex@gmail.com)  
 - **LinkedIn**: [Muhammad Hassan](https://www.linkedin.com/in/muhammad-hassan-104993302/)  
 
+# 💻 Tech Stack:  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
+![Stripe](https://img.shields.io/badge/stripe-%23E1EFFF.svg?style=flat-square&logo=stripe&logoColor=blue)  
+![PayPal](https://img.shields.io/badge/PayPal-%230073CF.svg?style=flat-square&logo=PayPal&logoColor=white)  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+
+# 📊 GitHub Stats:  
+![](https://github-readme-stats.vercel.app/api?username=MuhammadHassandeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHassandeveloper&theme=vue-dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHassandeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+
+
+
+
+
 Let’s collaborate to build impactful web solutions that bring your vision to life! 🤝  
