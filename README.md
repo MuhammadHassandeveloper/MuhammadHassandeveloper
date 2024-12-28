@@ -21,26 +21,33 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 
 ---
 
-## 🛠️ **Tech Stack** ⚙️
+<table align="center">
+  <tr>
+    <!-- Left side badges -->
+    <td align="left">
+      <b>Languages & Frameworks</b><br>
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    </td>
 
-**Languages & Frameworks**  
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+    <!-- Right side badges -->
+    <td align="right">
+      <b>Databases & Tools</b><br>
+      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Stripe-%23E1EFFF.svg?style=flat-square&logo=stripe&logoColor=blue" alt="Stripe">
+      <img src="https://img.shields.io/badge/PayPal-%230073CF.svg?style=flat-square&logo=paypal&logoColor=white" alt="PayPal">
+    </td>
+  </tr>
+</table>
 
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)  
-![Stripe](https://img.shields.io/badge/Stripe-%23E1EFFF.svg?style=flat-square&logo=stripe&logoColor=blue)  
-![PayPal](https://img.shields.io/badge/PayPal-%230073CF.svg?style=flat-square&logo=paypal&logoColor=white)
-
----
 
 ## 🌟 **Soft Skills** 💡  
 - 🤔 **Problem Solving**  
