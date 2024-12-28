@@ -19,7 +19,7 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 ### 🛒 **E-Commerce Solutions**
 - Built secure online stores with **payment gateway integration** and **real-time inventory management**.
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -43,9 +43,8 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 ---
 
    
-<div align="left">
-  <h2 align="left">📬 Let's Connect! 🤝</h2>
-  <p>Feel free to reach out to me on any platform:</p>
+<div align="center">
+  <h2 align="center">📬 Let's Connect! 🤝</h2>
   <!-- Email -->
   <a href="mailto:hassan.codeflex@gmail.com">
     <img src="https://img.shields.io/badge/Email-hassan.codeflex%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
