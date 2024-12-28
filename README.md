@@ -30,7 +30,8 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 
-  <br>
+  <br>   <br>
+
   <!-- Second Row: Databases & Tools -->
   <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
