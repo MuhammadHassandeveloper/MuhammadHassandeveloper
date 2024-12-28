@@ -19,29 +19,30 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 ### 🛒 **E-Commerce Solutions**
 - Built secure online stores with **payment gateway integration** and **real-time inventory management**.
 
-<div align="left">
-  <!-- First Row: Languages & Frameworks -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center">
   <b>Languages & Frameworks</b><br>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap4-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap4">
+  <img src="https://img.shields.io/badge/Bootstrap5-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap5">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Inertia%20JS-%23505296.svg?style=flat-square&logo=inertia&logoColor=white" alt="Inertia JS">
+  <img src="https://img.shields.io/badge/Laravel%20%2B%20Inertia%20%2B%20React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="Laravel + Inertia + React">
+  <img src="https://img.shields.io/badge/Laravel%20%2B%20Inertia%20%2B%20Vue-%2341B883.svg?style=flat-square&logo=vue.js&logoColor=white" alt="Laravel + Inertia + Vue">
 
-  <br>   <br>
+  <br><br>
 
-  <!-- Second Row: Databases & Tools -->
   <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Stripe-%23E1EFFF.svg?style=flat-square&logo=stripe&logoColor=blue" alt="Stripe">
-  <img src="https://img.shields.io/badge/PayPal-%230073CF.svg?style=flat-square&logo=paypal&logoColor=white" alt="PayPal">
 </div>
-
 
 
 ## 🌟 **Soft Skills** 💡  
