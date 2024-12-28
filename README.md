@@ -19,10 +19,9 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 ### 🛒 **E-Commerce Solutions**
 - Built secure online stores with **payment gateway integration** and **real-time inventory management**.
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 <div align="center">
-  <b>Languages & Frameworks</b><br>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap4-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap4">
@@ -36,9 +35,7 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
   <img src="https://img.shields.io/badge/Laravel%20%2B%20Inertia%20%2B%20React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="Laravel + Inertia + React">
   <img src="https://img.shields.io/badge/Laravel%20%2B%20Inertia%20%2B%20Vue-%2341B883.svg?style=flat-square&logo=vue.js&logoColor=white" alt="Laravel + Inertia + Vue">
 
-  <br><br>
-
-  <b>Databases & Tools</b><br>
+  <br>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
