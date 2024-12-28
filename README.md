@@ -40,17 +40,11 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
-
-
-## 🌟 **Soft Skills** 💡  
-- 🤔 **Problem Solving**  
-- 💬 **Communication** & **Collaboration**  
-- 🔄 **Continuous Learning** & **Adaptability**  
-
 ---
 
-<div align="center">
-  <h2 align="center">📬 Let's Connect! 🤝</h2>
+   
+<div align="left">
+  <h2 align="left">📬 Let's Connect! 🤝</h2>
   <p>Feel free to reach out to me on any platform:</p>
   <!-- Email -->
   <a href="mailto:hassan.codeflex@gmail.com">
@@ -71,6 +65,12 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 </div>
 
 
+
+
+## 🌟 **Soft Skills** 💡  
+- 🤔 **Problem Solving**  
+- 💬 **Communication** & **Collaboration**  
+- 🔄 **Continuous Learning** & **Adaptability**  
 ---
 
 ## 🏆 **GitHub Trophies**  
