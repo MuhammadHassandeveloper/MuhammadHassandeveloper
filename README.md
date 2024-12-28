@@ -19,7 +19,7 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 ### 🛒 **E-Commerce Solutions**
 - Built secure online stores with **payment gateway integration** and **real-time inventory management**.
 
-<div align="center">
+<div align="left">
   <!-- First Row: Languages & Frameworks -->
   <b>Languages & Frameworks</b><br>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -30,8 +30,7 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 
-  <br><br>
-
+  <br>
   <!-- Second Row: Databases & Tools -->
   <b>Databases & Tools</b><br>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
