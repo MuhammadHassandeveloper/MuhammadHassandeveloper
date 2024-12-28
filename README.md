@@ -21,7 +21,7 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap4-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap4">
