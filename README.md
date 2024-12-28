@@ -49,12 +49,27 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
 
 ---
 
-## 📬 **Let's Connect!** 🤝  
-Feel free to reach out to me on any platform:  
-📧 [Email](mailto:hassan.codeflex@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-104993302/)  
-🌐 [Portfolio](http://hassan.codeflex.org)  
-💻 [GitHub](https://github.com/MuhammadHassandeveloper)
+<div align="center">
+  <h2 align="center">📬 Let's Connect! 🤝</h2>
+  <p>Feel free to reach out to me on any platform:</p>
+  <!-- Email -->
+  <a href="mailto:hassan.codeflex@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hassan.codeflex%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muhammad-hassan-104993302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Portfolio -->
+  <a href="http://hassan.codeflex.org">
+    <img src="https://img.shields.io/badge/Portfolio-hassan.codeflex.org-9B59B6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/MuhammadHassandeveloper">
+    <img src="https://img.shields.io/badge/GitHub-MuhammadHassandeveloper-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 
 ---
 
