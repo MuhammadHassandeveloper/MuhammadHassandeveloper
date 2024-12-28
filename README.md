@@ -40,7 +40,6 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
----
 
    
 <div align="center">
