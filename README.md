@@ -1,102 +1,85 @@
-# 👋 **Hello! I'm Muhammad Hassan**
+# 👋 **Hello! I'm Muhammad Hassan**  
+**Full-Stack Developer | Laravel & Vue.js Specialist | AI Integration Expert**  
 
-A passionate **Full-Stack Developer** with **4+ years of experience** in technologies like **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, React JS,Vue Js PHP, Laravel**, and working with databases like **MySQL, PostgreSQL**, and **MongoDB**. I specialize in building dynamic, scalable, and efficient web applications tailored to meet business needs.
-
----
-
-## 💼 **Key Achievements** 🚀
-
-### 💳 **Stripe & PayPal Invoicing System**
-- Developed a complete invoicing platform with **Stripe** and **PayPal** integrations.
-- Features include manual & bulk invoice creation, secure payment links, and invoice cancellation options.
-
-### 📊 **Job Management System**
-- Built a task management platform with dashboard insights, progress tracking, and weekly analytics using **Laravel + Vue.js**.
-
-### 🌍 **Custom Web Applications**
-- Developed several scalable and high-performance applications using **Laravel**, **React.js**, and **Tailwind CSS** with full admin/user modules.
-
-### 🛒 **AI-Powered E-Commerce / Food Ordering System**
-- Multi-restaurant food ordering platform using **Laravel + Vue.js** integrated with **Gemini AI** for:
-  - Smart meal suggestions for customers
-  - Menu optimization insights for admins
-- Full order flow: Add to cart → Checkout → Track order
-
-🔗 [Live Demo – FoodGo App](https://food-go-app.codeflex.org/)  
-🔗 [Live Demo – GuardLink App](https://guard-link-app.codeflex.org/)
+With **4+ years** of experience building high-performance web applications using modern technologies:  
+**Frontend**: Vue.js, React.js, Tailwind CSS, Bootstrap  
+**Backend**: Laravel, PHP, Node.js  
+**Databases**: MySQL, PostgreSQL, MongoDB  
+**DevOps**: AWS, Docker, CI/CD Pipelines  
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+## 🚀 **Featured Projects**  
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap4-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap4">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-%2341B883.svg?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Inertia%20JS-%23505296.svg?style=flat-square&logo=inertia&logoColor=white" alt="Inertia JS">
-  <img src="https://img.shields.io/badge/Laravel%20%2B%20Inertia%20%2B%20React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="Laravel + Inertia + React">
-  <img src="https://img.shields.io/badge/Laravel%20%2B%20Inertia%20%2B%20Vue-%2341B883.svg?style=flat-square&logo=vue.js&logoColor=white" alt="Laravel + Inertia + Vue">
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-</div>
+### 🍔 **FoodGo - AI-Powered Food Ordering Platform**  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FoodGo-FF6B6B?style=for-the-badge)](https://food-go-app.codeflex.org)  
+- Multi-restaurant system with real-time order tracking  
+- Gemini AI integration for personalized recommendations  
+- Admin dashboard with sales analytics  
+- Tech: Laravel, Vue.js, Inertia.js, Tailwind CSS  
 
----
+### 🛡️ **GuardLink - Security Management System**  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GuardLink-4E73DF?style=for-the-badge)](https://guard-link-app.codeflex.org)  
+- Role-based access control for security teams  
+- Incident reporting with media uploads  
+- Real-time notifications system  
+- Tech: Laravel, React.js, PostgreSQL  
 
-## 🌟 **Soft Skills** 💡  
-- 🤔 Problem Solving  
-- 💬 Communication & Collaboration  
-- 🔄 Continuous Learning & Adaptability  
-- 📋 Project Planning & Requirement Analysis  
-- 📈 Client Satisfaction & Timely Delivery  
+### 💳 **SmartInvoice - Payment Processing System**  
+- Stripe & PayPal integration with webhooks  
+- Bulk invoice generation (PDF/Excel)  
+- Client portal with payment history  
+- Tech: Laravel, Vue.js, MySQL  
 
 ---
 
-<div align="center">
-  <h2 align="center">📬 Let's Connect! 🤝</h2>
-  <!-- Email -->
-  <a href="mailto:hassan.codeflex@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hassan.codeflex%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muhammad-hassan-104993302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- Portfolio -->
-  <a href="http://hassan.codeflex.org">
-    <img src="https://img.shields.io/badge/Portfolio-hassan.codeflex.org-9B59B6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/MuhammadHassandeveloper">
-    <img src="https://img.shields.io/badge/GitHub-MuhammadHassandeveloper-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+## 🛠️ **Technical Stack**  
+
+### **Frontend Development**  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### **Backend Development**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?logo=inertia&logoColor=white)
+
+### **Database & DevOps**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-## 🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadHassandeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🌟 **Professional Skills**  
+
+- **AI Integration**: Gemini AI, ChatGPT API, recommendation engines  
+- **Payment Gateways**: Stripe, PayPal, Razorpay implementations  
+- **Performance Optimization**: Lighthouse scores >90/100  
+- **Security Best Practices**: OWASP standards, data encryption  
+- **Agile Development**: Scrum, Kanban methodologies  
 
 ---
 
-## 📊 **GitHub Stats** 📈  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHassandeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHassandeveloper&theme=vue-dark&hide_border=false)  
-![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHassandeveloper&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📈 **GitHub Analytics**  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadHassandeveloper&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHassandeveloper&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadHassandeveloper&theme=radical)  
 
 ---
 
-## ✍️ **Random Dev Quote**  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 **Let's Connect**  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hassan.codeflex.org-9B59B6?style=for-the-badge)](http://hassan.codeflex.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/muhammad-hassan-104993302/)
+[![Email](https://img.shields.io/badge/Email-hassan.codeflex%40gmail.com-D14836?style=for-the-badge)](mailto:hassan.codeflex@gmail.com)
 
 ---
 
-Let’s create innovative and impactful solutions together! 🚀
+> "Clean code is not written by following rules. It's written by experience and constant refinement."  
+> *Let's build something amazing together!* 🚀
