@@ -1,6 +1,6 @@
 # 👋 **Hello! I'm Muhammad Hassan**
 
-A passionate **Full-Stack Developer** with **4+ years of experience** in technologies like **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, React JS, PHP, Laravel**, and working with databases like **MySQL, PostgreSQL**, and **MongoDB**. I specialize in building dynamic, scalable, and efficient web applications tailored to meet business needs.
+A passionate **Full-Stack Developer** with **4+ years of experience** in technologies like **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, jQuery, React JS,Vue Js PHP, Laravel**, and working with databases like **MySQL, PostgreSQL**, and **MongoDB**. I specialize in building dynamic, scalable, and efficient web applications tailored to meet business needs.
 
 ---
 
