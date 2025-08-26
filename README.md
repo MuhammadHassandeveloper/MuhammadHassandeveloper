@@ -91,8 +91,8 @@ A passionate **Full-Stack Developer** with **4+ years of experience** in technol
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- Portfolio -->
-  <a href="http://hassan.codeflex.org">
-    <img src="https://img.shields.io/badge/Portfolio-hassan.codeflex.org-9B59B6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  <a href="http://hasan.codeflex.org">
+    <img src="https://img.shields.io/badge/Portfolio-hasan.codeflex.org-9B59B6?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/MuhammadHassandeveloper">
